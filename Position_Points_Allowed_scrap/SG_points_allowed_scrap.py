@@ -1,0 +1,92 @@
+data = """
+ATL
+Atlanta Hawks
+50	24.09	6.34	5.35	3.54	1.66	0.74	2.99	43.93
+BKN
+Brooklyn Nets
+49	21.57	6.95	5.07	3.26	1.48	0.64	2.19	41.69
+BOS
+Boston Celtics
+50	20.94	6.87	4.43	3.26	1.36	0.43	2.15	39.05
+CHA
+Charlotte Hornets
+49	21.28	6.27	5.50	3.30	1.65	0.86	1.99	42.59
+CHI
+Chicago Bulls
+50	21.82	5.93	5.20	3.88	1.43	0.53	2.63	39.99
+CLE
+Cleveland Cavaliers
+48	19.58	5.81	4.46	3.00	1.41	0.68	2.17	37.34
+DAL
+Dallas Mavericks
+50	23.71	7.28	5.57	3.70	1.46	0.63	2.32	44.75
+DEN
+Denver Nuggets
+51	21.85	6.17	5.03	2.85	1.48	0.58	2.36	40.62
+DET
+Detroit Pistons
+49	23.84	6.23	4.41	2.82	2.07	0.80	2.26	44.28
+GSW
+Golden State Warriors
+47	22.25	5.67	4.16	3.29	1.78	0.62	2.57	39.92
+HOU
+Houston Rockets
+49	21.60	7.02	4.88	3.11	1.50	0.66	2.42	41.40
+IND
+Indiana Pacers
+51	24.08	5.72	4.77	2.81	1.52	0.72	2.43	42.39
+LAC
+Los Angeles Clippers
+49	22.45	6.02	4.91	3.14	1.40	0.66	2.37	40.85
+LAL
+Los Angeles Lakers
+52	23.74	6.75	5.54	3.48	1.69	0.84	2.74	45.00
+MEM
+Memphis Grizzlies
+50	20.84	6.38	5.30	2.97	1.59	0.61	2.50	40.55
+MIA
+Miami Heat
+50	23.44	6.79	5.05	3.59	1.38	0.72	2.46	43.00
+MIL
+Milwaukee Bucks
+50	23.77	6.64	5.05	3.14	1.16	0.42	2.33	41.72
+MIN
+Minnesota Timberwolves
+50	20.37	6.58	4.51	2.88	1.47	0.53	2.70	38.33
+NOR
+New Orleans Pelicans
+50	22.29	6.08	5.68	3.51	1.65	0.60	2.63	42.23
+NYK
+New York Knicks
+50	22.51	5.87	5.23	3.52	1.03	0.77	2.27	40.53
+OKC
+Oklahoma City Thunder
+50	23.23	6.16	5.25	3.76	1.49	0.76	2.93	42.32
+ORL
+Orlando Magic
+50	21.50	6.19	4.61	2.99	1.55	0.44	2.99	38.82
+PHI
+Philadelphia 76ers
+49	22.67	5.88	5.69	2.81	1.04	0.50	3.00	39.88
+PHO
+Phoenix Suns
+50	21.87	6.48	5.37	3.18	1.47	0.73	2.26	42.04
+POR
+Portland Trail Blazers
+50	22.89	6.67	5.31	2.69	1.90	0.60	2.71	43.65
+SAC
+Sacramento Kings
+49	23.27	5.62	4.86	3.34	1.31	0.66	2.75	40.46
+SAS
+San Antonio Spurs
+50	22.62	7.09	5.51	3.39	2.06	0.62	2.48	44.95
+TOR
+Toronto Raptors
+50	22.92	6.12	5.13	3.46	1.26	0.61	2.47	41.10
+UTH
+Utah Jazz
+51	22.52	6.32	5.00	3.55	1.63	0.87	2.02	43.08
+WAS
+Washington Wizards
+49	23.12	7.05	5.77	3.21	1.79	0.88	2.88	45.37
+"""

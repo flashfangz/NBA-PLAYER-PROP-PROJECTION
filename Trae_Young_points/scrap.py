@@ -1,0 +1,237 @@
+data = """
+Trae Young	Trae Young	2/5/2024	
+ATLATL
+vs	
+LACLAC
+24.7	75.1	136.8	36	25	2	12	2	0	5	8	14	57.1	3	7	42.9	6	6	100.0	5	-6
+Trae Young	Trae Young	2/3/2024	
+ATLATL
+vs	
+GSWGSW
+24.9	75.4	139.1	42	35	0	6	1	0	3	12	21	57.1	7	11	63.6	4	5	80.0	3	+5
+Trae Young	Trae Young	2/2/2024	
+ATLATL
+vs	
+PHXPHX
+25.3	89.5	138.4	42	32	1	15	3	1	7	12	17	70.6	7	11	63.6	1	2	50.0	2	-1
+Trae Young	Trae Young	1/30/2024	
+ATLATL
+vs	
+LALLAL
+30.0	62.3	123.1	34	26	2	13	1	0	5	9	20	45.0	6	9	66.7	2	2	100.0	0	+5
+Trae Young	Trae Young	1/28/2024	
+ATLATL
+vs	
+TORTOR
+31.1	51.2	112.5	42	30	2	12	2	0	5	9	24	37.5	1	4	25.0	11	12	91.7	3	+8
+Trae Young	Trae Young	1/26/2024	
+ATLATL
+vs	
+DALDAL
+30.7	65.7	143.0	33	30	1	11	3	0	2	9	18	50.0	2	7	28.6	10	11	90.9	3	+9
+Trae Young	Trae Young	1/20/2024	
+ATLATL
+vs	
+CLECLE
+24.5	62.5	94.9	28	15	1	5	0	0	4	6	12	50.0	3	4	75.0	0	0		2	-20
+Trae Young	Trae Young	1/17/2024	
+ATLATL
+vs	
+ORLORL
+28.6	52.7	98.4	39	18	3	12	1	0	8	5	14	35.7	1	6	16.7	7	7	100.0	3	+2
+Trae Young	Trae Young	1/15/2024	
+ATLATL
+vs	
+SASSAS
+33.4	64.4	135.1	38	36	6	13	1	1	3	11	24	45.8	6	11	54.5	8	9	88.9	0	+16
+Trae Young	Trae Young	1/13/2024	
+ATLATL
+vs	
+WASWAS
+26.2	45.7	112.7	36	21	2	10	1	1	1	6	19	31.6	2	10	20.0	7	9	77.8	5	-23
+Trae Young	Trae Young	1/12/2024	
+ATLATL
+vs	
+INDIND
+32.9	35.5	78.6	30	13	3	6	2	0	5	4	17	23.5	2	6	33.3	3	3	100.0	1	-19
+Trae Young	Trae Young	1/10/2024	
+ATLATL
+vs	
+PHIPHI
+30.6	49.7	105.9	43	28	1	11	1	1	5	7	22	31.8	2	8	25.0	12	14	85.7	2	+7
+Trae Young	Trae Young	1/7/2024	
+ATLATL
+@	
+ORLORL
+35.3	56.6	105.3	42	31	4	9	1	1	5	11	23	47.8	2	9	22.2	7	10	70.0	2	-10
+Trae Young	Trae Young	1/5/2024	
+ATLATL
+@	
+INDIND
+33.1	32.2	78.1	28	13	2	6	2	0	3	4	18	22.2	1	11	9.1	4	5	80.0	2	-28
+Trae Young	Trae Young	1/3/2024	
+ATLATL
+vs	
+OKCOKC
+28.0	67.3	122.6	34	24	4	11	2	0	6	6	13	46.2	2	9	22.2	10	11	90.9	2	-9
+Trae Young	Trae Young	12/31/2023	
+ATLATL
+@	
+WASWAS
+31.7	73.1	137.2	40	40	3	13	3	0	5	11	19	57.9	4	8	50.0	14	19	73.7	2	-13
+Trae Young	Trae Young	12/29/2023	
+ATLATL
+vs	
+SACSAC
+26.1	56.9	118.4	38	24	3	9	4	0	4	7	18	38.9	3	10	30.0	7	7	100.0	4	-11
+Trae Young	Trae Young	12/26/2023	
+ATLATL
+@	
+CHICHI
+28.0	52.3	105.9	40	21	2	13	1	0	6	6	17	35.3	3	13	23.1	6	7	85.7	3	-3
+Trae Young	Trae Young	12/23/2023	
+ATLATL
+vs	
+MEMMEM
+29.7	55.4	124.7	41	30	5	13	1	1	2	11	24	45.8	3	10	30.0	5	7	71.4	3	+2
+Trae Young	Trae Young	12/22/2023	
+ATLATL
+@	
+MIAMIA
+30.8	64.3	117.8	40	30	3	13	2	0	6	10	22	45.5	7	13	53.8	3	3	100.0	1	-11
+Trae Young	Trae Young	12/20/2023	
+ATLATL
+@	
+HOUHOU
+29.4	71.2	139.6	36	30	4	14	1	0	4	10	18	55.6	5	8	62.5	5	7	71.4	4	+11
+Trae Young	Trae Young	12/18/2023	
+ATLATL
+vs	
+DETDET
+30.3	69.6	141.6	38	31	4	15	0	0	5	8	17	47.1	4	11	36.4	11	12	91.7	3	+16
+Trae Young	Trae Young	12/16/2023	
+ATLATL
+@	
+CLECLE
+33.5	74.0	131.7	38	35	4	10	0	1	5	11	21	52.4	7	12	58.3	6	6	100.0	3	-9
+Trae Young	Trae Young	12/15/2023	
+ATLATL
+@	
+TORTOR
+43.7	63.6	113.1	36	38	5	11	1	0	8	15	29	51.7	7	15	46.7	1	2	50.0	2	+14
+Trae Young	Trae Young	12/13/2023	
+ATLATL
+@	
+TORTOR
+36.7	59.0	123.1	39	35	4	17	0	1	5	13	27	48.1	4	9	44.4	5	6	83.3	3	0
+Trae Young	Trae Young	12/11/2023	
+ATLATL
+vs	
+DENDEN
+32.1	63.0	115.6	26	19	1	9	1	0	5	5	12	41.7	2	5	40.0	7	7	100.0	2	-10
+Trae Young	Trae Young	12/6/2023	
+ATLATL
+vs	
+BKNBKN
+35.3	57.3	110.6	37	30	1	9	0	2	5	11	24	45.8	3	9	33.3	5	5	100.0	2	+3
+Trae Young	Trae Young	12/2/2023	
+ATLATL
+@	
+MILMIL
+35.4	55.4	118.9	37	32	2	12	2	0	4	13	28	46.4	5	13	38.5	1	2	50.0	0	-8
+Trae Young	Trae Young	11/30/2023	
+ATLATL
+@	
+SASSAS
+38.5	62.4	136.4	40	45	4	14	2	0	2	15	29	51.7	2	9	22.2	13	16	81.3	1	-1
+Trae Young	Trae Young	11/28/2023	
+ATLATL
+@	
+CLECLE
+24.0	39.1	91.1	32	13	1	10	1	0	3	3	14	21.4	2	8	25.0	5	6	83.3	3	-27
+Trae Young	Trae Young	11/26/2023	
+ATLATL
+@	
+BOSBOS
+40.1	55.7	107.7	37	33	5	7	0	0	5	12	27	44.4	6	16	37.5	3	6	50.0	3	-11
+Trae Young	Trae Young	11/25/2023	
+ATLATL
+@	
+WASWAS
+26.8	71.0	150.2	30	26	6	10	2	0	2	9	17	52.9	5	8	62.5	3	3	100.0	1	+40
+Trae Young	Trae Young	11/22/2023	
+ATLATL
+vs	
+BKNBKN
+37.8	58.6	130.0	40	43	4	9	2	0	4	12	31	38.7	8	16	50.0	11	13	84.6	0	-11
+Trae Young	Trae Young	11/21/2023	
+ATLATL
+vs	
+INDIND
+23.8	92.6	170.4	39	38	1	8	3	0	3	13	17	76.5	5	8	62.5	7	8	87.5	3	-2
+Trae Young	Trae Young	11/17/2023	
+ATLATL
+vs	
+PHIPHI
+25.2	59.8	127.2	37	22	2	13	1	0	4	5	14	35.7	2	6	33.3	10	10	100.0	3	+12
+Trae Young	Trae Young	11/15/2023	
+ATLATL
+vs	
+NYKNYK
+26.0	47.0	121.2	34	15	1	17	2	0	3	4	12	33.3	0	4	0.0	7	9	77.8	0	+1
+Trae Young	Trae Young	11/11/2023	
+ATLATL
+vs	
+MIAMIA
+31.1	56.6	119.6	38	27	2	11	1	0	5	7	19	36.8	3	9	33.3	10	11	90.9	0	+4
+Trae Young	Trae Young	11/9/2023	
+ATLATL
+@	
+ORLORL
+43.4	62.7	131.2	34	41	4	8	3	0	3	12	27	44.4	5	15	33.3	12	13	92.3	1	+1
+Trae Young	Trae Young	11/6/2023	
+ATLATL
+@	
+OKCOKC
+30.0	48.2	100.2	36	22	4	11	1	0	7	5	18	27.8	1	5	20.0	11	11	100.0	1	-18
+Trae Young	Trae Young	11/4/2023	
+ATLATL
+@	
+NOPNOP
+24.5	62.4	128.2	39	22	5	12	1	0	5	7	15	46.7	3	7	42.9	5	6	83.3	3	+18
+Trae Young	Trae Young	11/1/2023	
+ATLATL
+vs	
+WASWAS
+26.9	52.4	118.0	35	23	3	10	2	0	3	7	18	38.9	1	3	33.3	8	9	88.9	1	+4
+Trae Young	Trae Young	10/30/2023	
+ATLATL
+vs	
+MINMIN
+33.6	49.6	111.9	35	24	1	8	1	0	1	9	22	40.9	1	7	14.3	5	5	100.0	1	+4
+Trae Young	Trae Young	10/29/2023	
+ATLATL
+@	
+MILMIL
+26.2	55.7	125.1	32	20	3	11	1	0	3	5	14	35.7	3	8	37.5	7	9	77.8	1	+13
+Trae Young	Trae Young	10/27/2023	
+ATLATL
+vs	
+NYKNYK
+31.4	44.1	94.4	35	18	3	12	3	0	6	4	16	25.0	2	5	40.0	8	10	80.0	2	-5
+Trae Young	Trae Young	10/25/2023	
+ATLATL
+@	
+CHACHA
+34.1	44.9	92.4	36	23	1	9	1	0	5	4	19	21.1	1	9	11.1	14	15	93.3	3	-11
+"""
+entries = data.strip().split('\n')
+
+names = []
+for i in range(3, len(entries), 5):
+    # Extract the substring from the 1st character to the 3rd character
+    substring = entries[i][0:3]
+    # Append the substring to the strings array
+    names.append(substring)
+
+print(names)
